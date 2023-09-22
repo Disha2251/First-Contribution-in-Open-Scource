@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+		<td align="center">
+		            <a href="https://github.com/Disha2251">
+		            <img src="https://avatars.githubusercontent.com/u/110022936?v=4" width="100px;"/>
+		            <br />
+		            <sub><b>Disha Harsoda </b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
